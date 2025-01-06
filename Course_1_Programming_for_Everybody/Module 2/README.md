@@ -1,0 +1,1 @@
+# This module will introduce about how to install python and text editor with python
